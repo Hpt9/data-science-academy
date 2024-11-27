@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h2>Salam Paputu proyekt</h2>
+      <h3>Səə n maa qapu demişdün?</h3>
     </>
   )
 }
